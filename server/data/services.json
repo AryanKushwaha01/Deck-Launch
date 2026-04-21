@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Pitch Deck Advisory",
+        "description": "We help you craft a compelling narrative that resonates with investors.",
+        "iconKey": "presentation"
+    },
+    {
+        "title": "MVP Development",
+        "description": "From concept to code, we build scalable MVPs to validate your market.",
+        "iconKey": "code"
+    },
+    {
+        "title": "Fundraising Strategy",
+        "description": "Navigate the VC landscape with our proven fundraising frameworks.",
+        "iconKey": "strategy"
+    },
+    {
+        "title": "Investor Connections",
+        "description": "Direct access to our network of vetted angel investors and VCs.",
+        "iconKey": "users"
+    }
+]
